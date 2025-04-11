@@ -1,8 +1,0 @@
-# ninja log v6
-1	559	1744407671573908296	Task5_autogen/timestamp	133cf28478d776ac
-1	559	1744407671573908296	Task5_autogen/mocs_compilation.cpp	133cf28478d776ac
-1	559	1744407671573908296	/Users/ctraxxd/Documents/453502/OAiP2/LR3/Task5/cmake-build-debug/Task5_autogen/timestamp	133cf28478d776ac
-1	559	1744407671573908296	/Users/ctraxxd/Documents/453502/OAiP2/LR3/Task5/cmake-build-debug/Task5_autogen/mocs_compilation.cpp	133cf28478d776ac
-563	1936	1744407671594407916	CMakeFiles/Task5.dir/Task5_autogen/mocs_compilation.cpp.o	fc19eee21573d7e3
-563	1940	1744407671594723332	CMakeFiles/Task5.dir/main.cpp.o	d6ceddfef51b5c3f
-563	1943	1744407671594892040	CMakeFiles/Task5.dir/Calculate.cpp.o	f1b22a29fb692459
