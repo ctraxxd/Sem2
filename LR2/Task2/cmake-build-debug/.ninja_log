@@ -1,0 +1,11 @@
+# ninja log v6
+2	704	1744398266262610212	Task2_autogen/timestamp	19fe7f572128576
+2	704	1744398266262610212	Task2_autogen/mocs_compilation.cpp	19fe7f572128576
+2	704	1744398266262610212	/Users/ctraxxd/Documents/453502/OAiP2/LR2/Task2/cmake-build-debug/Task2_autogen/timestamp	19fe7f572128576
+2	704	1744398266262610212	/Users/ctraxxd/Documents/453502/OAiP2/LR2/Task2/cmake-build-debug/Task2_autogen/mocs_compilation.cpp	19fe7f572128576
+708	2628	1744398266281822971	CMakeFiles/Task2.dir/projectClass.cpp.o	9127cc1737a85673
+708	2667	1744398266281338090	CMakeFiles/Task2.dir/main.cpp.o	9d967ce13f2aa4fd
+708	2680	1744398266281017170	CMakeFiles/Task2.dir/Task2_autogen/mocs_compilation.cpp.o	4d4395ebcdfff17a
+708	2681	1744398266281657677	CMakeFiles/Task2.dir/editWindow.cpp.o	29a975d222dd62a9
+708	2729	1744398266281498634	CMakeFiles/Task2.dir/mainWindow.cpp.o	11b11b2f4ced18ba
+2729	2834	1744398268302706652	Task2	446eddb9a451832f

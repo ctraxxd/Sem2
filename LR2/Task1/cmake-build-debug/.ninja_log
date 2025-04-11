@@ -1,0 +1,18 @@
+# ninja log v6
+11	53	1744391818431165109	Task1_autogen/timestamp	8e9523648cb2c8a
+11	53	1744391818431165109	/Users/ctraxxd/Documents/453502/OAiP2/LR2/Task1/cmake-build-debug/Task1_autogen/timestamp	8e9523648cb2c8a
+11	53	1744391818431165109	/Users/ctraxxd/Documents/453502/OAiP2/LR2/Task1/cmake-build-debug/Task1_autogen/mocs_compilation.cpp	8e9523648cb2c8a
+63	92	1744391234125732568	CMakeFiles/Task1.dir/Task1_autogen/mocs_compilation.cpp.o	3674da0b0d81f3a3
+11	53	1744391818431165109	Task1_autogen/mocs_compilation.cpp	8e9523648cb2c8a
+63	1345	1744391234126014068	CMakeFiles/Task1.dir/main.cpp.o	e1b17f1ee8ebf81a
+1348	1473	1744391235410936806	Task1	f65a2f072c57e1d
+54	2134	1744391818474232828	CMakeFiles/Task1.dir/workWithDate.cpp.o	66b10f88611e0c8f
+13	670	1744391859544662000	Task1_autogen/timestamp	8e9523648cb2c8a
+13	670	1744391859544662000	Task1_autogen/mocs_compilation.cpp	8e9523648cb2c8a
+13	670	1744391859544662000	/Users/ctraxxd/Documents/453502/OAiP2/LR2/Task1/cmake-build-debug/Task1_autogen/timestamp	8e9523648cb2c8a
+13	670	1744391859544662000	/Users/ctraxxd/Documents/453502/OAiP2/LR2/Task1/cmake-build-debug/Task1_autogen/mocs_compilation.cpp	8e9523648cb2c8a
+671	2637	1744391859560590226	CMakeFiles/Task1.dir/workWithDate.cpp.o	7ace72c1bb09dad9
+670	2697	1744391859560161523	CMakeFiles/Task1.dir/main.cpp.o	e1b17f1ee8ebf81a
+670	2702	1744391859559861485	CMakeFiles/Task1.dir/Task1_autogen/mocs_compilation.cpp.o	3674da0b0d81f3a3
+671	2734	1744391859560403520	CMakeFiles/Task1.dir/mainWindow.cpp.o	363d89b5b4e17c62
+2734	2832	1744391861623612468	Task1	8bc5d4dec244e1f5

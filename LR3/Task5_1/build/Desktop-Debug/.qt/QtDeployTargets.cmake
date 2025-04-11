@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_Task5_FILE /Users/ctraxxd/Documents/453502/OAiP2/LR3/Task5_1/build/Desktop-Debug/Task5)
+set(__QT_DEPLOY_TARGET_Task5_TYPE EXECUTABLE)

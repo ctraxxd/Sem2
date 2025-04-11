@@ -1,0 +1,4 @@
+/Users/ctraxxd/Documents/453502/OAiP2/LR3/Task5_1/build/Desktop-Debug/CMakeFiles/Task5.dir
+/Users/ctraxxd/Documents/453502/OAiP2/LR3/Task5_1/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/Users/ctraxxd/Documents/453502/OAiP2/LR3/Task5_1/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/Users/ctraxxd/Documents/453502/OAiP2/LR3/Task5_1/build/Desktop-Debug/CMakeFiles/Task5_autogen.dir

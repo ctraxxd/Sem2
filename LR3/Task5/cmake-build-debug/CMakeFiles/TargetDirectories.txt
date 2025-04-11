@@ -1,0 +1,5 @@
+/Users/ctraxxd/Documents/453502/OAiP2/LR3/Task5/cmake-build-debug/CMakeFiles/Task5.dir
+/Users/ctraxxd/Documents/453502/OAiP2/LR3/Task5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ctraxxd/Documents/453502/OAiP2/LR3/Task5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ctraxxd/Documents/453502/OAiP2/LR3/Task5/cmake-build-debug/CMakeFiles/Task5_autogen_timestamp_deps.dir
+/Users/ctraxxd/Documents/453502/OAiP2/LR3/Task5/cmake-build-debug/CMakeFiles/Task5_autogen.dir
