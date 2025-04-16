@@ -14,6 +14,6 @@ void hanoi(int n, int l = 0, int r = 2) {
 }
 
 int main() {
-    hanoi(5);
+    hanoi(4);
     return 0;
 }
