@@ -20,20 +20,20 @@ int interpolation_sort(int *arr, int sz, int l, int r) {
     if (mn == mx)
         return 0;
     int *siz = new int[r - l + 1];
-    for(int i = 0; i < r - l + 1; i++)
+    for (int i = 0; i < r - l + 1; i++)
         siz[i] = 0;
     int cnt = 0;
     for (int i = l; i <= r; i++) {
         int idx = (1LL * arr[i] - mn) * (r - l) / (1LL * mx - mn);
         siz[idx]++;
-        if(siz[idx] == 1)
+        if (siz[idx] == 1)
             cnt++;
     }
     int *L = new int[cnt], *R = new int[cnt];
     int lst = -1;
     cnt = 0;
-    for(int i = 0; i < r - l + 1; i++) {
-        if(!siz[i])
+    for (int i = 0; i < r - l + 1; i++) {
+        if (!siz[i])
             continue;
         int nlst = lst + siz[i];
         L[cnt] = lst + 1, R[cnt] = nlst;
@@ -46,12 +46,12 @@ int interpolation_sort(int *arr, int sz, int l, int r) {
         int idx = (1LL * arr[i] - mn) * (r - l) / (1LL * mx - mn);
         b[siz[idx]++] = arr[i];
     }
-    for(int i = l; i <= r; i++)
+    for (int i = l; i <= r; i++)
         arr[i] = b[i - l];
-    for(int i = 0; i < sz; i++)
+    for (int i = 0; i < sz; i++)
         std::cout << arr[i] << " ";
     std::cout << '\n';
-    for(int i = 0; i < cnt; i++)
+    for (int i = 0; i < cnt; i++)
         interpolation_sort(arr, sz, L[i], R[i]);
 }
 
@@ -73,7 +73,7 @@ int main() {
     int *arr = new int[n];
     for (int i = 0; i < n; i++)
         arr[i] = mt() % 100000;
-    for(int i = 0; i < n; i++)
+    for (int i = 0; i < n; i++)
         std::cout << arr[i] << " ";
     std::cout << '\n';
     interpolation_sort(arr, n, 0, n - 1);

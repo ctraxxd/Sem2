@@ -95,13 +95,13 @@ int main() {
     int *arr = new int[n];
     for (int i = 0; i < n; i++)
         arr[i] = mt() % 100000;
-    for(int i = 0; i < n; i++)
+    for (int i = 0; i < n; i++)
         std::cout << arr[i] << " ";
     std::cout << '\n';
     int *arr1 = new int[n];
     int *arr2 = new int[n];
     int *arr3 = new int[n];
-    for(int i = 0; i < n; i++)
+    for (int i = 0; i < n; i++)
         arr1[i] = arr[i], arr2[i] = arr[i], arr3[i] = arr[i];
     int t0 = clock();
     heap_sort(arr1, n);
@@ -111,9 +111,9 @@ int main() {
     merge_sort(arr3, 0, n - 1);
     int t3 = clock();
     std::cout << std::fixed << std::setprecision(15);
-    std::cout << "heap_sort:" << cnth << " " << (t1 - t0) / (double)CLOCKS_PER_SEC << '\n';
-    std::cout << "quick_sort:" << cntq << " " << (t2 - t1) / (double)CLOCKS_PER_SEC << '\n';
-    std::cout << "merge_sort:" << cntm << " " << (t3 - t2) / (double)CLOCKS_PER_SEC << '\n';
+    std::cout << "heap_sort:" << cnth << " " << (t1 - t0) / (double) CLOCKS_PER_SEC << '\n';
+    std::cout << "quick_sort:" << cntq << " " << (t2 - t1) / (double) CLOCKS_PER_SEC << '\n';
+    std::cout << "merge_sort:" << cntm << " " << (t3 - t2) / (double) CLOCKS_PER_SEC << '\n';
     merge_sort(arr, 0, n - 1);
     int x;
     std::cin >> x;
